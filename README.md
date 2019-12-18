@@ -1,3 +1,5 @@
+This repo has been moved to [Media-Smart/vedaseg](https://github.com/Media-Smart/vedaseg)
+
 ## Installation
 ### Requirements
 
